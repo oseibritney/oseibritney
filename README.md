@@ -10,4 +10,6 @@
 ### Password generator (Python)
   - https://github.com/oseibritney/Password-Generator-Project
 
-
+## To Keep in Touch / Connect:
+  - http://linkedin.com/in/britney-osei-8030a9311
+  - britneyosei68@gmail.com
