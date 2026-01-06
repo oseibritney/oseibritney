@@ -8,6 +8,6 @@
 ### Content Helper (JavaFX)
   - https://github.com/oseibritney/ContentHelper-Project
 ### Password generator (Python)
-  - 
+  - https://github.com/oseibritney/Password-Generator-Project
 
 
