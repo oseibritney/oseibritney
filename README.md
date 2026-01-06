@@ -5,9 +5,9 @@
   - https://github.com/oseibritney/Medical-Tracker-Project
 ### Personal Finance Dashboard (Python)
   -
-### Content Helper
+### Content Helper (JavaFX)
   -
-### Password generator
+### Password generator (Python)
   -
 
 
