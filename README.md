@@ -1,9 +1,13 @@
 # Hi I'm Britney! 👋
 
 ## My Engineering Projects:
-## Medical Tracker   
+### Medical Tracker (JavaFX)
   - https://github.com/oseibritney/Medical-Tracker-Project
-### Personal Finance Dashboard
-- 
+### Personal Finance Dashboard (Python)
+  -
+### Content Helper
+  -
+### Password generator
+  -
 
 
