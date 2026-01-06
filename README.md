@@ -2,6 +2,8 @@
 
 ## My Engineering Projects:
 ### Medical Tracker   
-  - link
+  - https://github.com/oseibritney/Medical-Tracker-Project
+### Personal Finance Dashboard
+- 
 
 
